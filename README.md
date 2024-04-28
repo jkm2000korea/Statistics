@@ -1,3 +1,9 @@
+마트와 편의점 데이터 분포
+--
+![image](https://github.com/jkm2000korea/Statistics/assets/77305773/e7780db4-7bc2-4fda-b34f-dc16d8c81345)
+
+
+
 베르누이 시행과 이항분포에 대한 이해
 ---
 
